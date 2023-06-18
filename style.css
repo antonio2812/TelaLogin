@@ -34,7 +34,6 @@ input {
 .inputSubmit:hover {
     background-color: deepskyblue;
     cursor: pointer;
-
     border: none;
     padding: 15px;
     width: 100%;
